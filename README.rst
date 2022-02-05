@@ -1,1 +1,1 @@
-This project contains code for my portfolio website `<https://mohsin.ninja>`.
+This project contains code for my portfolio website `https://mohsin.ninja`.
