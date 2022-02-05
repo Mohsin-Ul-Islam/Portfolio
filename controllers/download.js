@@ -1,6 +1,5 @@
-const path = require('path');
-
-function downloadResume(req,res) {
-    return res.download('./public/downloads/resume.pdf');
+function downloadResume(_, res) {
+  return res.download("./public/downloads/resume.pdf");
 }
-module.exports = {downloadResume};
+
+module.exports = { downloadResume };
