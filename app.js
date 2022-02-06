@@ -11,7 +11,8 @@ const app = express();
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "pug");
 
-app.use(logger("dev"));
+if (process.env.ENV !== "PROD") app.use(logger("dev"));
+
 app.use("/", indexRouter);
 app.use("/downloads", downloadsRouter);
 app.use(express.static(path.join(__dirname, "public")));
