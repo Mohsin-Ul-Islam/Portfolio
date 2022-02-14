@@ -1,10 +1,17 @@
 const projects = [
   {
-    title: "Hikerr Website",
-    date: "July, 2020",
+    title: "Electricity Bill Alerter",
+    date: "October, 2021",
     description:
-      "Hikerr is a travel agency currently operating in Pakistan. The project contains complete website for Hikerr including the administration portal. The website supports bookings of travel, online payment, sign in and sign up services.",
-    link: "https://hikerr.co",
+      "Utility bills in Pakistan are released around mid month. As there is no digital notification from the government, I usually forget and fail to pay the bill in the due time. This project sends me automated SMS whenever I have to pay my electricity bills.",
+    link: "https://github.com/Mohsin-Ul-Islam/electricity-bill-alerter",
+  },
+  {
+    title: "Birthday Wisher",
+    date: "February, 2022",
+    description:
+      "After graduating from LUMS, I made a lot of quality and awesome friends. Due to my busy schedule I sometimes forget to wish my remote friends their birthday. I made this tool to wish birthdays to my friends on time.",
+    link: "https://github.com/Mohsin-Ul-Islam/birthday-wisher",
   },
   {
     title: "Conway's game of life",
