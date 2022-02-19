@@ -1,5 +1,12 @@
 const projects = [
   {
+    title: "Weather Station (iot)",
+    date: "February, 2022",
+    description:
+      "This is a fun project to calculate temperature, humiditiy and air quality index in Lahore in realtime using DHT11, MQ135 sensors and ESP32 microcontroller.",
+    link: "https://github.com/Mohsin-Ul-Islam/weather-station",
+  },
+  {
     title: "Electricity Bill Alerter",
     date: "October, 2021",
     description:
