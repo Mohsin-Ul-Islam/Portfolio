@@ -73,8 +73,8 @@ const experiences = [
     company: "laam.pk",
   },
   {
-    date: "March 2022 - Present",
-    designation: "Senior Software Engineer",
+    date: "March 2022 - May 2022",
+    designation: "Software Engineer",
     company: "tajir.app",
   },
 ];
