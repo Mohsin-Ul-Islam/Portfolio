@@ -2,3 +2,9 @@
   from = "/projects/frontend-mentor/qr-code-component/*"
   to = "https://famous-marshmallow-c04647.netlify.app/:splat"
   status = 200
+
+[[redirects]]
+  from = "/projects/game-of-life/*"
+  to = "https://steady-dieffenbachia-e2d3e3.netlify.app/:splat"
+  status = 200
+
